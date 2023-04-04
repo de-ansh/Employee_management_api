@@ -65,6 +65,8 @@ public class EmployeeController {
         return response;
     }
     //update employee
-
+    ///Project complete
     //delete employee
+    //Things we know now, managing database  with sping is easy
+    // we just have to understand the basics
 }
